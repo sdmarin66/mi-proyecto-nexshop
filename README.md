@@ -15,4 +15,4 @@ NexShop Group S.A. es una empresa de distribución híbrida fundada en 2015. Cue
 ## 📊 Diagrama Entidad-Relación
 A continuación se muestra el diseño conceptual unificado de la base de datos:
 
-![Diagrama ER](docs/diagrama_er.png)
+![Diagrama ER](docs/diagrama_er.drawio.png)
